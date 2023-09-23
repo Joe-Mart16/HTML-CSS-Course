@@ -1,0 +1,126 @@
+button {
+  margin: 30px;
+}
+
+.requestnow-button {
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  height: 36px;
+  width: 110px;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+}
+
+.requestnow-button:hover {
+  opacity: 0.7;
+}
+
+.add-button {
+  background-color: rgb(255, 216 ,20);
+  color: black;
+  border: none;
+  height: 36px;
+  border-radius: 18px;
+  width: 150px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s;
+}
+
+.add-button:hover {
+  background-color: rgb(230, 166, 70);
+}
+
+.signup-button {
+  background-color:rgb(46, 164, 79) ;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 8px;
+  border: none;
+  border-radius:4px ;
+  height: 36px;
+  width: 90px;
+  transition: box-shadow 0.15s;
+}
+
+.signup-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.getstarted-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  height: 36px;
+  cursor: pointer;
+  margin-right: 8px;
+  width: 100px;
+  transition: background-color 0.15s;
+}
+
+.getstarted-button:hover {
+  background-color: rgb(69, 19, 115);
+}
+
+.download-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  font-weight: bold;
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  border-radius: 4px;
+  height: 36px;
+  margin-right: 8px;
+  cursor: pointer;
+  width: 100px;
+  border-width: 1.5px;
+  transition: background-color 0.15s, 
+    color 0.15s;
+}
+
+.download-button:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+.apply-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 18px;
+  height: 36px;
+  cursor:pointer;
+  margin-right: 8px;
+  width: 205px;
+  transition: background-color 0.15s;
+}
+
+.apply-button:hover {
+  background-color: rgb(45, 15, 241);
+}
+
+.save-button{
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  font-weight: bold;
+  border-width: 1.8px;
+  border-radius: 18px;
+  height: 36px;
+  cursor: pointer;
+  width: 80px;
+  transition: background-color 0.15s,
+    border-width 0.15s;
+}
+
+.save-button:hover {
+  background-color: rgb(194, 217, 244);
+  border-width: 2.5px;
+}

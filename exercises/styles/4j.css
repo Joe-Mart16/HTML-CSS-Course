@@ -1,0 +1,15 @@
+.shadow-button {
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  transition: box-shadow 0.15s;
+}
+
+.shadow-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}

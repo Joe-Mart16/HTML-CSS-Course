@@ -1,0 +1,32 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 7px;
+  font-size: large;
+}
+
+.capital-unit {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.capital-currency {
+  color: gray;
+}
+
+.investment-profit {
+  color: green;
+  font-size: 17.5px;
+}
+
+.loss-change {
+  color: gray;
+}
+
+.loss-percentage {
+  color: red;
+}
+
+.investment-loss {
+  font-size: 17.5px;
+}

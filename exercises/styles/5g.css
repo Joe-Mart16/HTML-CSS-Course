@@ -1,0 +1,19 @@
+p {
+  font-family: Arial;
+  font-size: larger;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.fcc-mail {
+  color: gray;
+}
+
+.chpit-mail {
+  color: skyblue;
+}
+
+.web-info {
+  width: 580px;
+  margin-bottom: 20px;
+}

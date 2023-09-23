@@ -1,0 +1,15 @@
+.sales-ad {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.sales-duration {
+  font-style: italic;
+  font-family: Arial;
+  color: red;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
